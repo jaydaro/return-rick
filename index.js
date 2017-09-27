@@ -1,6 +1,6 @@
 module.exports = function (data) {
-	if (data != null) {
+	if (data !== null) {
 	return 'Tiny Rick Loves you!'	
-};
-return 'Rick!'
+}
+return 'Rick is null!!'
 };
